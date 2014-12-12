@@ -1,7 +1,35 @@
-Repmipede for Shellmo
----------------------
+# Repmipede for Shellmo
 
-RepRap printable version of [Micropede][URL01] motor module for [Shellmo][URL02].
+RepRap printable version of [Micropede][mpdoc] motor module for [Shellmo][spweb].
 
-[URL01]: http://shellmo.org/making-micropede.html
-[URL02]: http://shellmo.org/
+[mpdoc]: http://shellmo.org/making-micropede.html
+[spweb]: http://shellmo.org/
+
+## Printing
+
+All the parts can be printed without support.
+
+Recommended settings:
+
+* layer height: 0.25mm
+* infill: 30%
+* extrusion width: 0.5mm
+
+## Assembly
+
+* M3x8mm screw **x24**
+* M3x10mm screw **x4** (for motor cover)
+* M3 nut **x28**
+
+Please, refer to `src/chassis.fcstd` to see the pin-leg connection and to
+figure out how to assembly the whole thing. You must put all the pins before
+to assembly the ribs, and also before this you must put the captive nuts.
+
+Shaft is a tricky part. Try to fit all the shaft parts without glue and
+without play, and insert in the ribs before put the rear one.
+
+The rest is the same in [Micropede documentation][mpdoc].
+
+The compatible motor cover is the one you can find in the [RepWalker][rwdoc].
+
+[rwdoc]: http://shellmo.org/making-repwalker.html
