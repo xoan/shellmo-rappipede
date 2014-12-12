@@ -1,4 +1,4 @@
-# Repmipede for Shellmo
+# Rappipede for Shellmo
 
 RepRap printable version of [Micropede][mpdoc] motor module for [Shellmo][spweb].
 
