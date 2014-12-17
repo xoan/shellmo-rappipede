@@ -9,7 +9,7 @@ RepRap printable version of [Micropede][mpdoc] motor module for [Shellmo][spweb]
 
 All the parts can be printed without support.
 
-Recommended settings:
+Recommended settings for Slic3r 1.2.1:
 
 * layer height: 0.25mm
 * infill: 30%
