@@ -15,7 +15,7 @@ Recommended settings for Slic3r 1.2.1:
 * infill: 30%
 * extrusion width: 0.5mm
 
-## Assembly
+## Assembly ([in pictures][mpagp])
 
 * M3x8mm screw **x24**
 * M3x10mm screw **x4** (for motor cover)
@@ -32,4 +32,5 @@ The rest is the same in [Micropede documentation][mpdoc].
 
 The compatible motor cover is the one you can find in the [RepWalker][rwdoc].
 
+[mpagp]: https://plus.google.com/u/0/photos/110257073782155456732/albums/6136100401424545313
 [rwdoc]: http://shellmo.org/making-repwalker.html
