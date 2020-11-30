@@ -32,5 +32,5 @@ The rest is the same in [Micropede documentation][mpdoc].
 
 The compatible motor cover is the one you can find in the [RepWalker][rwdoc].
 
-[mpagp]: https://plus.google.com/u/0/photos/110257073782155456732/albums/6136100401424545313
+[mpagp]: https://photos.app.goo.gl/5GXLVykhWVXsJaY36
 [rwdoc]: http://shellmo.org/making-repwalker.html
